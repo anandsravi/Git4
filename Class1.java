@@ -10,6 +10,8 @@ public class Class1 {
 		System.out.println(N);
 		String D = "Darshan";
 		System.out.println(D);
+		String family = "Sand";
+		System.out.println(family);
 	}
 
 }
