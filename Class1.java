@@ -12,6 +12,8 @@ public class Class1 {
 		System.out.println(D);
 		String family = "Sand";
 		System.out.println(family);
+		String familyname = "Kaluvakolli";
+		System.out.print(familyname);
 	}
 
 }
